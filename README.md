@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there! My name is Billy Myers and I'm an undergrad CS student at UNLV! My hobbies include reading, gaming, music, and walking!
+
+Right now, I'm working on a super secret game project ;)
+
+Find my games: https://billymyers.itch.io
 
 <!--
 **billymyers/billymyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
